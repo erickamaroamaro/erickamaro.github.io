@@ -3,9 +3,8 @@ lang: pt-BR
 timezone: America/Sao_Paulo
 title: Códigos Aleatórios
 tagline: Reflexões sobre programação, carreira e muitos tutoriais
-url: "https://erick.amaro.br"
 github:
-  username: ErickAmaro
+  username: erickamaro
 social:
   name: Erick
   email: erickamaroamaro@gmail.com
